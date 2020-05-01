@@ -13,6 +13,6 @@ of audience engagement and appropriate wording choices for site topics that woul
 
 There are some small things that were not completed but the entire responsive layout is complete.
 
-
+This may look simplistic but once you start coding and building out the responsive parts it quickly becomes a challenge.
 
 - Open the index.html file in a browser to see it's responsive behavior
