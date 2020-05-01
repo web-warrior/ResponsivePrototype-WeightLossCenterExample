@@ -19,6 +19,7 @@ There are some small things that were not completed but the entire responsive la
 
 This may look simplistic but once you start coding and building out the responsive parts it quickly becomes a challenge.
 
-- Open the index.html file inside the main folder in a browser to see it's responsive behavior
-- All the sliced images and the original mockup.jpg file is in the "i" sub folder
+#- To view in a web browser download or clone this example and then open the index.html file inside the main folder in a browser
+
+#- All the sliced images and the original mockup.jpg file is in the "i" sub folder
 
