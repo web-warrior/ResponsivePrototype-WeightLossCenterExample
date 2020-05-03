@@ -20,7 +20,7 @@ Not completed: The hamberger icon should swap to a 'X' transition to close the m
 
 
 
-## To view in a web browser download or clone this example and then open the index.html file inside the main folder in a browser
+### To view in a web browser download or clone this example and then open the index.html file inside the main folder in a browser
 
 ### All the sliced images and the original mockup.jpg file are in the "i" sub folder
 
