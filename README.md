@@ -20,6 +20,6 @@ This may look simplistic but once you start coding and building out the responsi
 
 ## To view in a web browser download or clone this example and then open the index.html file inside the main folder in a browser
 
-### All the sliced images and the original mockup.jpg file is in the "i" sub folder
+### All the sliced images and the original mockup.jpg file are in the "i" sub folder
 
 
